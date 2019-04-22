@@ -266,4 +266,4 @@ This example is equivalent to::
 
 .. versionadded:: 2.2
 
-Returns ``'toast'``.
+Returns ``'toasts'``.
